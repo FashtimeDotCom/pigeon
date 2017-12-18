@@ -1,0 +1,4 @@
+smtp-mail.outlook.com 
+587
+gdccmcm14@live.com 
+xxxx
